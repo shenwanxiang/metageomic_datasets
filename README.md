@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/480659672.svg)](https://zenodo.org/badge/latestdoi/480659672)
 # Publicly available low-sample size metagenomic sets
 Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 
