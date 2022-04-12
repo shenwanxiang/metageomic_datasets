@@ -2,40 +2,21 @@
 Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 
 ## Table-1 | Summary of the human gut metagenomic datasets in this repo.
-
-| Data Group                           | Dataset   | \# Case | \# Control | \# Species |
-| ------------------------------------ | --------- | ------- | ---------- | ---------- |
-| `Disease-sets`\[2\]                    | Cirrhosis | 114     | 118        | 542        |
-| IBD                                  | 25        | 85      | 443        | 542        |
-| Obesity                              | 164       | 89      | 465        | 542        |
-| T2D                                  | 223       | 217     | 606        | 542        |
-| CRC                                  | 48, 39    | 47      | 507        | 542        |
-| Cross-nation sets of `CRC-Nation`\[3\] | AUS       | 46      | 63         | 849        |
-| CHN                                  | 74        | 54      | 849        |849        |
-| DEU                                  | 60        | 60      | 849        |849        |
-| FRA                                  | 53        | 61      | 849        |849        |
-| USA                                  | 52        | 52      | 849        |849        |
-| Disease-stage sets of `CRC-Stage`\[4\] | MP        | 40      | 127        | 7278       |
-| S0                                   | 27        | 127     | 7278       | 7278       |
-| SI/II                                | 69        | 127     | 7278       | 7278       |
-| SIII/IV                              | 54        | 127     | 7278       | 7278       |
-
-
 |Data Group|Dataset|# Case|# Control|# Species|
 |:----|:----|:----|:----|:----|
-|Disease-sets19|
+|Disease-sets [2]|
 |Cirrhosis|114|118|542|
 | |IBD|25|85|443|
 | |Obesity|164|89|465|
 | |T2D|223|217|606|
 | |CRC|48, 39|47|507|
-|Cross-nation sets of CRC-Nation3|
+|Cross-nation sets of CRC-Nation [3]|
 | |AUS|46|63|849|
 | |CHN|74|54|849|
 | |DEU|60|60|849|
 | |FRA|53|61|849|
 | |USA|52|52|849|
-|Disease-stage sets of CRC-Stage4|
+|Disease-stage sets of CRC-Stage [4]|
 | |MP|40|127|7278|
 | |S0|27|127|7278|
 | |SI/II|69|127|7278|
