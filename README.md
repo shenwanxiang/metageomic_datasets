@@ -21,6 +21,26 @@ Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 | SIII/IV                              | 54        | 127     | 7278       | 7278       |
 
 
+|Data Group|Dataset|# Case|# Control|# Species|
+|:----|:----|:----|:----|:----|
+|Disease-sets19|
+|Cirrhosis|114|118|542|
+| |IBD|25|85|443|
+| |Obesity|164|89|465|
+| |T2D|223|217|606|
+| |CRC|48, 39|47|507|
+|Cross-nation sets of CRC-Nation3|
+| |AUS|46|63|849|
+| |CHN|74|54|849|
+| |DEU|60|60|849|
+| |FRA|53|61|849|
+| |USA|52|52|849|
+|Disease-stage sets of CRC-Stage4|
+| |MP|40|127|7278|
+| |S0|27|127|7278|
+| |SI/II|69|127|7278|
+| |SIII/IV|54|127|7278|
+
 ## 1. `Disease-sets`: 
 The five metagenomic datasets in Disease-sets are Cirrhosis, Obesity, type 2 diabetes (T2D), inflammatory bowel disease (IBD) and colorectal cancer (CRC). The datasets were obtained from  the MetAML package [1] and Meta-Signer [2]. The two sets of CRC metagenomic datasets are the across-nation CRC data (CRC-Nation sets) and CRC stage-specific data (CRC-Stage sets), which are obtained from recent study of Wirbel et al. (2019)[3] and Yachida et. al. (2019)[4], respectively. A summary of the datasets used in this study is in Table 1. The microbial taxa of all datasets are at species-level and with relative abundance value for the specific disease and control groups.
 
