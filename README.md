@@ -38,16 +38,16 @@ The data is the each of the four CRC stages in pairwise comparisons against heal
 
 -------
 ## Reference
-1.	Pasolli, E., et al., Machine learning meta-analysis of large metagenomic datasets: tools and biological insights. PLoS computational biology, 2016. 12(7): p. e1004977.
-2.	Reiman, D., et al., Meta-Signer: Metagenomic Signature Identifier based on Rank Aggregation of Features. bioRxiv, 2020.
-3.	Wirbel, J., et al., Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer. Nature medicine, 2019. 25(4): p. 679-689.
-4.	Yachida, S., et al., Metagenomic and metabolomic analyses reveal distinct stage-specific phenotypes of the gut microbiota in colorectal cancer. Nature medicine, 2019. 25(6): p. 968-976.
-5.	Qin, N., et al., Alterations of the human gut microbiome in liver cirrhosis. Nature, 2014. 513(7516): p. 59-64.
-6.	Qin, J., et al., A metagenome-wide association study of gut microbiota in type 2 diabetes. Nature, 2012. 490(7418): p. 55-60.
-7.	Karlsson, F.H., et al., Gut metagenome in European women with normal, impaired and diabetic glucose control. Nature, 2013. 498(7452): p. 99-103.
-8.	Le Chatelier, E., et al., Richness of human gut microbiome correlates with metabolic markers. Nature, 2013. 500(7464): p. 541-546.
-9.	Qin, J., et al., A human gut microbial gene catalogue established by metagenomic sequencing. nature, 2010. 464(7285): p. 59-65.
-10.	Zeller, G., et al., Potential of fecal microbiota for early‐stage detection of colorectal cancer. Molecular systems biology, 2014. 10(11): p. 766.
+[1].	Pasolli, E., et al., Machine learning meta-analysis of large metagenomic datasets: tools and biological insights. PLoS computational biology, 2016. 12(7): p. e1004977.
+[2].	Reiman, D., et al., Meta-Signer: Metagenomic Signature Identifier based on Rank Aggregation of Features. bioRxiv, 2020.
+[3].	Wirbel, J., et al., Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer. Nature medicine, 2019. 25(4): p. 679-689.
+[4].	Yachida, S., et al., Metagenomic and metabolomic analyses reveal distinct stage-specific phenotypes of the gut microbiota in colorectal cancer. Nature medicine, 2019. 25(6): p. 968-976.
+[5].	Qin, N., et al., Alterations of the human gut microbiome in liver cirrhosis. Nature, 2014. 513(7516): p. 59-64.
+[6].	Qin, J., et al., A metagenome-wide association study of gut microbiota in type 2 diabetes. Nature, 2012. 490(7418): p. 55-60.
+[7].	Karlsson, F.H., et al., Gut metagenome in European women with normal, impaired and diabetic glucose control. Nature, 2013. 498(7452): p. 99-103.
+[8].	Le Chatelier, E., et al., Richness of human gut microbiome correlates with metabolic markers. Nature, 2013. 500(7464): p. 541-546.
+[9].	Qin, J., et al., A human gut microbial gene catalogue established by metagenomic sequencing. nature, 2010. 464(7285): p. 59-65.
+[10].	Zeller, G., et al., Potential of fecal microbiota for early‐stage detection of colorectal cancer. Molecular systems biology, 2014. 10(11): p. 766.
 
 ---
 
