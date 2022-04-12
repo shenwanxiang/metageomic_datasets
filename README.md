@@ -22,7 +22,7 @@ Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 
 
 ## 1. `Disease-sets`: 
-The five metagenomic datasets in Disease-sets are Cirrhosis, Obesity, type 2 diabetes (T2D), inflammatory bowel disease (IBD) and colorectal cancer (CRC). The datasets were obtained from  the MetAML package[1] and Meta-Signer[2]. The two sets of CRC metagenomic datasets are the across-nation CRC data (CRC-Nation sets) and CRC stage-specific data (CRC-Stage sets), which are obtained from recent study of Wirbel et al. (2019)[3] and Yachida et. al. (2019)[4], respectively. A summary of the datasets used in this study is in Table 1. The microbial taxa of all datasets are at species-level and with relative abundance value for the specific disease and control groups.
+The five metagenomic datasets in Disease-sets are Cirrhosis, Obesity, type 2 diabetes (T2D), inflammatory bowel disease (IBD) and colorectal cancer (CRC). The datasets were obtained from  the MetAML package [1] and Meta-Signer [2]. The two sets of CRC metagenomic datasets are the across-nation CRC data (CRC-Nation sets) and CRC stage-specific data (CRC-Stage sets), which are obtained from recent study of Wirbel et al. (2019)[3] and Yachida et. al. (2019)[4], respectively. A summary of the datasets used in this study is in Table 1. The microbial taxa of all datasets are at species-level and with relative abundance value for the specific disease and control groups.
 
 * 1) The Cirrhosis dataset covers 542 gut microbial species from fecal samples of 114 cirrhosis patients and 118 healthy subjects[5]. 
 * 2) The T2D dataset covers 606 gut microbial species from fecal samples of 223 patients with T2D and 217 healthy subjects from two studies[6, 7]. 
