@@ -5,7 +5,7 @@ Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 |Data Group|Dataset|# Case|# Control|# Species|
 |:----|:----|:----|:----|:----|
 |Disease-sets [2]|
-|Cirrhosis|114|118|542|
+| |Cirrhosis|114|118|542|
 | |IBD|25|85|443|
 | |Obesity|164|89|465|
 | |T2D|223|217|606|
