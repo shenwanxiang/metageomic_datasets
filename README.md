@@ -1,7 +1,7 @@
 # Publicly available low-sample size metagenomic sets
 Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 
-## Table-1 | Summary of the human gut metagenomic datasets in this study
+## Table-1 | Summary of the human gut metagenomic datasets in this repo.
 
 | Data Group                           | Dataset   | \# Case | \# Control | \# Species |
 | ------------------------------------ | --------- | ------- | ---------- | ---------- |
