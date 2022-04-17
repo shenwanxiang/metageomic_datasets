@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/480659672.svg)](https://zenodo.org/badge/latestdoi/480659672)
-# Publicly available low-sample size metagenomic sets
+# Publicly available low-sample size metagenomic datasets
 Datasets of the `Diease-sets`, `CRC-Nation (five contries)`, and `CRC-stages`
 
 ## Table-1 | Summary of the human gut metagenomic datasets in this repo.
