@@ -1,4 +1,4 @@
-## Diease-DataSets:
+## Diease-DataSets-1:
 
 The five datasets abainted from study of PopPhy-CNN: https://github.com/YDaiLab/PopPhy-CNN/tree/master/data 
 
